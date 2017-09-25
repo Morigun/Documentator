@@ -1,0 +1,10 @@
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\bin\Debug\Documentator.exe
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\bin\Debug\Documentator.pdb
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Window1.baml
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Window1.g.cs
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\App.g.cs
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Documentator_MarkupCompile.cache
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Documentator.g.resources
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Documentator.exe
+C:\MyDOC\Проекты\C#\Developer\Documentator\Documentator\obj\Debug\Documentator.pdb

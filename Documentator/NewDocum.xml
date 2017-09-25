@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Documentation>
+  <UnityProjectDocum />
+  <GameObject />
+  <UI>
+    <Button Name="Start" TypeElement="Button">
+      <Note>Начать игру</Note>
+      <Event>Загружает сцену с именем 1</Event>
+      <Scene>Menu</Scene>
+    </Button>
+  </UI>
+  <Object3D />
+  <Object2D />
+  <Light />
+  <Audio />
+  <ParticalSystem />
+  <Camera />
+</Documentation>

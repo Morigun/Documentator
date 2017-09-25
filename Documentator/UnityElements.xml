@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<UnityProjectDocum title="UnityElements">
+  <GameObject>
+    <UI>
+      <Element>Button</Element>
+      <Element>Canvas</Element>
+      <Element>Label</Element>
+      <Element>ScrollBar</Element>
+      <Element>Toggel</Element>
+    </UI>
+    <Object3D>
+      <Element>Cube</Element>
+      <Element>Sphere</Element>
+      <Element>Capsule</Element>
+      <Element>Cylinder</Element>
+      <Element>Plane</Element>
+      <Element>Quad</Element>
+      <Element>Ragdoll</Element>
+      <Element>Cloth</Element>
+      <Element>Terrain</Element>
+      <Element>Tree</Element>
+      <Element>Wind Zone</Element>
+    </Object3D>
+    <Object2D>
+      <Element>Sprite</Element>
+    </Object2D>
+    <Light>
+      <Element>DirectionalLight</Element>
+      <Element>AreaLight</Element>
+    </Light>
+    <Audio>
+      <Element>AudioArea</Element>
+    </Audio>
+    <ParticalSystem>
+      <Element>ParticalSystem</Element>
+    </ParticalSystem>
+    <Camera>
+      <Element>Camera</Element>
+    </Camera>
+  </GameObject>
+</UnityProjectDocum>
